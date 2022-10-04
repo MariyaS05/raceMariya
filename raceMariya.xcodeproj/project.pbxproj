@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C20A09E28EC9A2400217CE6 /* extension+Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C20A09D28EC9A2400217CE6 /* extension+Labels.swift */; };
 		4C385B4728E6130500EC5718 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C385B4628E6130500EC5718 /* AppDelegate.swift */; };
 		4C385B4928E6130600EC5718 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C385B4828E6130600EC5718 /* SceneDelegate.swift */; };
 		4C385B4B28E6130600EC5718 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C385B4A28E6130600EC5718 /* Game.swift */; };
@@ -24,6 +25,7 @@
 		0E0C85F29D48F2BFC7087548 /* Pods-raceMariya.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-raceMariya.debug.xcconfig"; path = "Target Support Files/Pods-raceMariya/Pods-raceMariya.debug.xcconfig"; sourceTree = "<group>"; };
 		0EA2FA9F007B5C04F61D0B91 /* Pods-raceMariya.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-raceMariya.release.xcconfig"; path = "Target Support Files/Pods-raceMariya/Pods-raceMariya.release.xcconfig"; sourceTree = "<group>"; };
 		13FB0C9C03AF19A2B8BB9B30 /* Pods_raceMariya.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_raceMariya.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C20A09D28EC9A2400217CE6 /* extension+Labels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "extension+Labels.swift"; sourceTree = "<group>"; };
 		4C385B4328E6130500EC5718 /* raceMariya.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = raceMariya.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C385B4628E6130500EC5718 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4C385B4828E6130600EC5718 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				4C385B4828E6130600EC5718 /* SceneDelegate.swift */,
 				4C385B4A28E6130600EC5718 /* Game.swift */,
 				4CA2422328E84FD000997B31 /* extensiin+Buttons.swift */,
+				4C20A09D28EC9A2400217CE6 /* extension+Labels.swift */,
 				4CA2421F28E8433E00997B31 /* MenuViewController.swift */,
 				4CB2E10228EC30F500209381 /* SettingsViewController.swift */,
 				4CB2E10428EC326A00209381 /* ScoreViewController.swift */,
@@ -222,6 +225,7 @@
 				4C385B4B28E6130600EC5718 /* Game.swift in Sources */,
 				4CA2422428E84FD000997B31 /* extensiin+Buttons.swift in Sources */,
 				4C385B4728E6130500EC5718 /* AppDelegate.swift in Sources */,
+				4C20A09E28EC9A2400217CE6 /* extension+Labels.swift in Sources */,
 				4C385B4928E6130600EC5718 /* SceneDelegate.swift in Sources */,
 				4CA2422028E8433E00997B31 /* MenuViewController.swift in Sources */,
 				4CB2E10328EC30F500209381 /* SettingsViewController.swift in Sources */,
